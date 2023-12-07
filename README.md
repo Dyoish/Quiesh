@@ -9,3 +9,7 @@ Fill in the missing letters
 - The game will prompt a question together with a string of text that has missing letters. Users need to fill in the missing letters to complete the correct answer.
 Scores
 - Users will merit a score per each answer, which sums to 100 points in each difficulty level.
+
+# Groupmates
+- Angel Almazan
+- John Rod Jovellanos
